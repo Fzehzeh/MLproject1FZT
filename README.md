@@ -32,4 +32,13 @@ pandas: Data processing
 numpy: Numerical computations
 matplotlib: Visualization
 seaborn: Visualization
-scikit-learn: Machine learning
+scikit-learn: Machine learning 
+
+
+
+
+
+
+
+
+https://www.kaggle.com/code/fatmazehratonga/mlproject1fzt
